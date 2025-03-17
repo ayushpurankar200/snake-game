@@ -31,6 +31,5 @@ python snake.py
 ## Future Improvements
 - Add sound effects and background music.
 - Implement different game modes (e.g., obstacles, power-ups).
-- Improve AI to control the snake autonomously.
 
 
